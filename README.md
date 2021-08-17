@@ -16,6 +16,4 @@ A few resources to get you started if this is your first Flutter project:
 - [Ingressive For Good Website](https://ingressive.org)
 
 
-<video width="320" height="240" controls>
-  <source src="hng_stage8.mp4" type="video/mp4">
-</video>
+![App preview](https://user-images.githubusercontent.com/38624784/129783105-4a8e7f98-fa46-424e-a656-3cb35b98532b.mp4)
