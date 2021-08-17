@@ -15,3 +15,4 @@ A few resources to get you started if this is your first Flutter project:
 - ![Ingressive For Good logo](https://ingressive.org/wp-content/uploads/2020/08/I4G-Logo-Main-1024x248.png)
 - [Ingressive For Good Website](https://ingressive.org)
 
+![app preview](hng_stage8.mp4)
